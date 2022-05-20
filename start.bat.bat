@@ -1,0 +1,1 @@
+java -Dfile.encoding=UTF8 -jar grasscutter-1.1.1-dev.jar
