@@ -159,3 +159,4 @@ There is a dummy user named "Server" in every player's friends list that you can
 
 * Startup sequence: Mongodb > Grasscutter > Proxy daemon (mitmdump, fiddler, etc.) > Game
 "# DEBIAN" 
+"# BOT_DIS" 
